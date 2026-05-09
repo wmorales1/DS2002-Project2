@@ -1,0 +1,38 @@
+[
+  {
+    "item_type_key": 1,
+    "item_type": "WINE"
+  },
+  {
+    "item_type_key": 2,
+    "item_type": "BEER"
+  },
+  {
+    "item_type_key": 3,
+    "item_type": "LIQUOR"
+  },
+  {
+    "item_type_key": 4,
+    "item_type": "STR_SUPPLIES"
+  },
+  {
+    "item_type_key": 5,
+    "item_type": "KEGS"
+  },
+  {
+    "item_type_key": 6,
+    "item_type": "REF"
+  },
+  {
+    "item_type_key": 7,
+    "item_type": "DUNNAGE"
+  },
+  {
+    "item_type_key": 8,
+    "item_type": "NON-ALCOHOL"
+  },
+  {
+    "item_type_key": 9,
+    "item_type": NaN
+  }
+]
